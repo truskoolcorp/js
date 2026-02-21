@@ -34,7 +34,7 @@
     "zod": "3.25.62"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "15.3.3",
+    "@next/eslint-plugin-next": "15.3.8",
     "@types/node": "22.14.1",
     "@types/react": "19.1.8",
     "@types/react-dom": "19.1.6",

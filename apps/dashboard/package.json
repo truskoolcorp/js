@@ -110,8 +110,8 @@
   "devDependencies": {
     "@chakra-ui/cli": "^2.4.1",
     "@chromatic-com/storybook": "4.0.0",
-    "@next/bundle-analyzer": "15.3.3",
-    "@next/eslint-plugin-next": "15.3.3",
+    "@next/bundle-analyzer": "15.3.8",
+    "@next/eslint-plugin-next": "15.3.8",
     "@playwright/test": "1.53.0",
     "@storybook/addon-docs": "9.0.8",
     "@storybook/addon-links": "9.0.8",
